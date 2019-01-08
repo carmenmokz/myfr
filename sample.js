@@ -15,5 +15,5 @@ connection.query('SELECT * FROM Provincia', function(err,rows,field){
 	console.log(err);
 	}
 });
-connection.end();
+hahaha
 
